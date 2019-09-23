@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C9B68C89-F634-4AE3-87EA-BBAFC8960CD9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApi/Controllers/TodoController.cs">
+    <Files>
+      <File FileName="TestApi/Startup.cs" Line="42" Column="36" />
+      <File FileName="TestApi/Models/TodoItem.cs" Line="11" Column="1" />
+      <File FileName="TestApi/Models/TodoContext.cs" Line="22" Column="2" />
+      <File FileName="TestApi/Controllers/TodoController.cs" Line="26" Column="47" />
+      <File FileName="TestApi/appsettings.json" Line="3" Column="87" />
+      <File FileName="TestApi/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="TestApi/Program.cs" Line="1" Column="1" />
+      <File FileName="TestApi/TestApi.csproj" Line="31" Column="1" />
+      <File FileName="TestApi/Properties/launchSettings.json" Line="30" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestApi" expanded="True">
+            <Node name="TestApi" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="TodoController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nicolasgidon/Projects/TestApi/TestApi/Startup.cs" relfile="TestApi/Startup.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
